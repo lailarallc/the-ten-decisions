@@ -249,3 +249,9 @@ Each entry records what was found, what was fixed, and when to
 check again.
 
 <!-- Entries are added by /improve — don't delete this section -->
+
+### 2026-09-23 — Audit (health check only)
+- **Findings:** 1 critical, 4 important, 4 nice-to-have
+- **Top concerns:** Launch-terms contradiction ships in both documents: manifesto body (line ~403) and exec summary (line ~92) still say "net-60 ... funded two months of inventory" while the manifesto callout, research notes, and the cost-of-saying-yes model use Net-30 (the 2026-07-31 fix only updated the callout). Manifesto Channel callout frames the $54K gap as return "on the same $1M incremental investment", which research/cinderhaven-findings.md explicitly says is per revenue dollar, not a return on capital; exec summary generalizes Cinderhaven's ~15% recovery rate to "most brands at $25M" and calls the $1.4M–$2.3M range "not projected, not theoretical". README says rendered PDFs are checked into dist/ as the-ten-decisions-*.pdf, but dist/ and *.pdf are gitignored and never tracked, and _quarto.yml has no render list, so `quarto render` also writes PLAN/DECISIONS/HANDOFF/research/docs PDFs into dist/. HANDOFF.md stops at 2026-05-28 (July audit fixes, Aug canonical vendoring, Sept guard commits unlogged) and CLAUDE.md stack is still "TBD". Nice-to-have: $1.35M deductions vs canonical $1.34M (1,116,468 + 226,866); ~15% recovery vs canonical 14.2%; $298K vs $300K/yr used interchangeably; CTA still says "invoice-to-cash"; unused src/ and tests/ template dirs. Canonical drift gate and engagement guard both pass. Manual security/code/figure pass replaced automated /security-review, /ce:review, data-science-reviewer (not available).
+- **Action taken:** Audit only — no fixes this session
+- **Next review:** 2026-12-22
