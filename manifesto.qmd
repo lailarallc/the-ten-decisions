@@ -96,7 +96,7 @@ SKUs are costing you shelf space costs $50K–$150K a year at the $25M scale.
 ::: {.callout-cinderhaven}
 **Cinderhaven Provisions — Composite case study**
 
-Cinderhaven's top-performing SKU (Extra Virgin Olive Oil, CHP-PS-004) was also a
+Cinderhaven's Extra Virgin Olive Oil (CHP-PS-004) was also a
 leading driver of the brand's $298K a year in fulfillment shortfall costs across four dimensions
 — forgone revenue, compliance fines, chargebacks, and deductions. The spread was invisible until per-SKU cost attribution was modeled.
 :::
