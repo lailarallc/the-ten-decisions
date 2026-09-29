@@ -34,7 +34,7 @@ All figures derive from the Cinderhaven synthetic dataset; no real client data i
 **Source repo:** `short-ship-cost`, `web/public/data/validation.json`
 **Dollar figure:** $894K in total fulfillment shortfall costs over 36 months at 99.2% retailer / 99.5% distributor fill — $523,326 in forgone revenue, $164,543 in compliance fines, $118,814 in chargebacks, $87,490 in deductions; ~$298K/yr across four dimensions
 **Finding:** "99% unit fill still costs $300K/yr — the gap between unit fill and in-full is where the money hides. Cinderhaven's internal fill rate looks like excellence; retailers score them at 85%."
-**Before/After:** Before: no visibility into cost of shorts because the legacy system overwrote original orders with shipped quantities. After: 99.2% retailer fill rate costs ~$298K/yr — every dollar traces to a platform event or a published fine schedule. Internal fill 99.2%; retailer-scored OTIF 88.2% blended; the 14.8-pt gap is Walmart-specific (99.2 vs. 84.5, computed on unrounded rates); $57K/yr in OTIF exposure ($23,697 fines + $33,500 velocity damage).
+**Before/After:** Before: no visibility into cost of shorts because the legacy system overwrote original orders with shipped quantities. After: 99.2% retailer fill rate costs ~$298K/yr — every dollar traces to a platform event or a published fine schedule. Internal fill 99.2%; 88.2% of shipments on time and complete across retailers; the 14.8-pt gap is Walmart-specific (99.2 vs. 84.5, computed on unrounded rates); $57K/yr exposure ($23,697 Walmart chargebacks + $33,500 velocity damage).
 
 ---
 

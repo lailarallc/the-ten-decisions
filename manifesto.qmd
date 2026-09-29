@@ -205,7 +205,7 @@ the product team is focused on the next launch.
 ::: {.callout-cinderhaven}
 **Cinderhaven Provisions — Composite case study**
 
-99.2% retailer fill rate. 84.5% Walmart retailer-scored OTIF.
+99.2% fill rate at the brand's dock. 84.5% of Walmart shipments on time and complete.
 $894K in total fulfillment shortfall costs over 36 months —
 ~$300K/yr across four dimensions. Every dollar traces to a
 platform event. The legacy system had overwritten original
