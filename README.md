@@ -36,7 +36,7 @@ $1.4M–$2.3M per year on the table across ten structural blind spots. Each
 component figure is traceable to a specific framework and methodology — for
 example, deductions unrecovered ($350K–$500K/yr) or fulfillment failures that
 vanish from the records when the legacy system overwrites the original PO
-quantity ($298K/yr).
+quantity ($296K/yr).
 
 The success metric is deliberately not a vanity metric: the piece exists to
 make a qualified executive reader recognize their own blind spots and start a
